@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalvaropc&label=Profile%20views&color=0e75b6&style=flat" alt="aalvaropc" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://aalvaropc.vercel.app/](https://aalvaropc.vercel.app/)
 
