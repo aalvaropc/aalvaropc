@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalvaropc&label=Profile%20views&color=0e75b6&style=flat" alt="aalvaropc" /> </p>
 
-- 🌱 I’m currently learning **Elixir**,  **K8S**, and **Terraform**
+- 🌱 I’m currently learning **K8s**
 
 - 📫 How to reach me **aalvaropc@gmail.com**
 
